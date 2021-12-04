@@ -1,5 +1,11 @@
-### Hi there 👋
+### Namaste! 👋
 
+I'm a programmer. I write code. These days I'm focusing on
+
+- Improvising problem solving skills
+- Writing unit tests to create bug free code
+- Making JavaScript projects from scratch. I use Vanilla JS.
+- Learning Azure
 <!--
 **rasik210/rasik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
