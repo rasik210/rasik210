@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: checkout source code
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Print working directory tree
         run: tree -L 3
