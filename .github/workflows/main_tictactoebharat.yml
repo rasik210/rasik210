@@ -66,6 +66,7 @@ jobs:
       - run: |
           mv tictactoe/* ./
           rm -r tictactoe
+          rm release.zip
 
       - name: Print index.html
         run: cat public/index.html
