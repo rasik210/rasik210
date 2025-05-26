@@ -60,8 +60,12 @@ jobs:
         with:
           name: node-app
 
-      - name: Unzip artifact for deployment
-        run: unzip release.zip
+      # - name: Unzip artifact for deployment
+      #   run: unzip release.zip
+
+       run: |
+        mv tictactoe/* ./
+        rm -r tictactoe
 
       - name: Print index.html
         run: cat tictactoe/public/index.html
