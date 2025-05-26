@@ -1,11 +1,10 @@
 ### Namaste! 👋
 
-I'm a programmer. I write code. These days I'm focusing on
+I'm a programmer. I write code. 
 
-- Improvising problem solving skills
-- Writing unit tests to create bug free code
-- Making JavaScript projects from scratch. I use Vanilla JS.
-- Learning Azure
+This repository contains code for deploying a plain HTML file into Azure web app. This is a plain vanilla application with the help of which you can learn how to setup end to end CI/CD pipeline for a JavaScript application. 
+
+For this solution to work, the Azure web app must be using Node runtime stack on Linux operating system. This code repository will not work if you target Node runtime stack on Windows operating system.
 <!--
 **rasik210/rasik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
