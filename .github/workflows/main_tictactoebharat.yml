@@ -68,7 +68,7 @@ jobs:
           rm -r tictactoe
 
       - name: Print index.html
-        run: cat tictactoe/public/index.html
+        run: cat public/index.html
       
       - name: Login to Azure
         uses: azure/login@v2
