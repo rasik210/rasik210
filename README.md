@@ -2,9 +2,13 @@
 
 I'm a programmer. I write code. 
 
-This repository contains code for deploying a plain HTML file into Azure web app. This is a plain vanilla application with the help of which you can learn how to setup end to end CI/CD pipeline for a JavaScript application. 
+The default repository contains code for deploying a plain HTML file into Azure web app. This is a plain vanilla application with the help of which you can learn how to setup end to end CI/CD DevOps pipeline for a simple web application. 
 
-For this solution to work, the Azure web app must be using Node runtime stack on Linux operating system. This code repository will not work if you target Node runtime stack on Windows operating system.
+For this solution to work, the Azure web app must be using Node as runtime stack and Linux as the target operating system. This code repository will not work if you target Node runtime stack on Windows operating system.
+
+- 🔭 I’m actively looking for freelance projects.
+- 🌱 I’m currently learning React and Azure DevOps
+
 <!--
 **rasik210/rasik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
