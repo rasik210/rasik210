@@ -2,7 +2,7 @@
 
 I'm Rasik. I'm a programmer. I'm an eternal learner.
 
-This default repository contains code for deploying a plain HTML file into Azure web app. This is a very simple web application containing just one HTML web page. Here you can learn, how to setup end to end GitHub's CI/CD DevOps pipeline for a web application. 
+This default repository contains code for deploying a plain HTML file into Azure web app. This is a very basic web application containing only one HTML web page and nothing else. Here you can learn, how to setup end to end GitHub's CI/CD DevOps pipeline for a web application. 
 
 Here are the steps that you can follow to run this code in Azure environment:
 - Open Azure portal. Now, create an Azure web app using "Node-20-lts" as runtime stack and "Linux" as target operating system.
