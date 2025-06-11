@@ -1,13 +1,20 @@
 ### Namaste! 👋
 
-I'm a programmer. I write code. 
+I'm Rasik. I'm a programmer. I'm an eternal learner.
 
-The default repository contains code for deploying a plain HTML file into Azure web app. This is a plain vanilla application with the help of which you can learn how to setup end to end CI/CD DevOps pipeline for a simple web application. 
+This default repository contains code for deploying a plain HTML file into Azure web app. This is a very simple web application containing just one HTML web page. Here you can learn, how to setup end to end GitHub's CI/CD DevOps pipeline for a web application. 
 
-For this solution to work, the Azure web app must be using Node as runtime stack and Linux as the target operating system. This code repository will not work if you target Node runtime stack on Windows operating system.
+Here are the steps that you can follow to run this code in Azure environment:
+    - Open Azure portal. Now, create an Azure web app using "Node-20-lts" as runtime stack and "Linux" as target operating system.
+    - Name of Azure web app above will have to be updated in ".github\workflows\main_tictactoebharat.yml" file in the code base.
+    - Commit the changes in ".github\workflows\main_tictactoereact.yml" file and push the changes to your GitHub repository to trigger CI/CD workflow.
+    - Once the CI/CD execution completes, go to the web app on the Azure portal. Go to "Overview" section in left pane. Click the link below the "Default domain" field in the right pane.
+    - Now view the HTML page in a new browser tab that has opened.
+
+Caution: This code repository or the CI/CD pipeline will not work if you use Node runtime stack targeting Windows operating system.
 
 - 🔭 I’m actively looking for freelance projects.
-- 🌱 I’m currently learning React and Azure DevOps
+- 🌱 I’m currently learning JavaScript, React and Azure DevOps
 
 <!--
 **rasik210/rasik210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
